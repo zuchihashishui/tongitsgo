@@ -1,0 +1,132 @@
+version: 2.9.2
+apkFileName: Tongitsgo_website.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 21
+  targetSdkVersion: 34
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 26001
+  versionName: 6.0.1
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: 0
+  androidsupportmultidexversion.txt: 8
+  billing.properties: 8
+  byte_string_store.proto: 8
+  client_analytics.proto: 8
+  core-common.properties: 8
+  firebase-analytics.properties: 8
+  firebase-annotations.properties: 8
+  firebase-auth-interop.properties: 8
+  firebase-encoders-proto.properties: 8
+  firebase-encoders.properties: 8
+  firebase-iid-interop.properties: 8
+  firebase-iid.properties: 8
+  firebase-measurement-connector.properties: 8
+  messaging_event.proto: 8
+  messaging_event_extension.proto: 8
+  play-services-ads-base.properties: 8
+  play-services-ads-identifier.properties: 8
+  play-services-ads-lite.properties: 8
+  play-services-ads.properties: 8
+  play-services-appset.properties: 8
+  play-services-auth-api-phone.properties: 8
+  play-services-auth-base.properties: 8
+  play-services-auth.properties: 8
+  play-services-base.properties: 8
+  play-services-basement.properties: 8
+  play-services-cloud-messaging.properties: 8
+  play-services-cronet.properties: 8
+  play-services-location.properties: 8
+  play-services-measurement-api.properties: 8
+  play-services-measurement-base.properties: 8
+  play-services-measurement-impl.properties: 8
+  play-services-measurement-sdk-api.properties: 8
+  play-services-measurement-sdk.properties: 8
+  play-services-measurement.properties: 8
+  play-services-places-placereport.properties: 8
+  play-services-stats.properties: 8
+  play-services-tasks.properties: 8
+  review.properties: 8
+  universal_request_store.proto: 8
+  user-messaging-platform.properties: 8
+  webview_configuration_store.proto: 8
+  android/LICENSE.txt: 8
+  android/README.txt: 8
+  com/adjust/sdk/oaid/AdjustOaid.java: 8
+  com/adjust/sdk/oaid/HmsSdkClient.java: 8
+  com/adjust/sdk/oaid/MsaSdkClient.java: 8
+  com/adjust/sdk/oaid/OaidInfo.java: 8
+  com/adjust/sdk/oaid/Util.java: 8
+  com/j256/ormlite/android/LICENSE.txt: 8
+  com/j256/ormlite/android/README.txt: 8
+  com/j256/ormlite/core/LICENSE.txt: 8
+  com/j256/ormlite/core/README.txt: 8
+  com/qq/jce/wup/wup.properties: 8
+  core/LICENSE.txt: 8
+  core/README.txt: 8
+  gateway/v1/ad_data_refresh_request.proto: 8
+  gateway/v1/ad_data_refresh_response.proto: 8
+  gateway/v1/ad_player_config_request.proto: 8
+  gateway/v1/ad_player_config_response.proto: 8
+  gateway/v1/ad_request.proto: 8
+  gateway/v1/ad_response.proto: 8
+  gateway/v1/allowed_pii.proto: 8
+  gateway/v1/campaign_state.proto: 8
+  gateway/v1/client_info.proto: 8
+  gateway/v1/developer_consent.proto: 8
+  gateway/v1/diagnostic_event_request.proto: 8
+  gateway/v1/dynamic_device_info.proto: 8
+  gateway/v1/error.proto: 8
+  gateway/v1/get_token_event_request.proto: 8
+  gateway/v1/initialization_completed_event_request.proto: 8
+  gateway/v1/initialization_request.proto: 8
+  gateway/v1/initialization_response.proto: 8
+  gateway/v1/mutable_data.proto: 8
+  gateway/v1/native_configuration.proto: 8
+  gateway/v1/operative_event_request.proto: 8
+  gateway/v1/pii.proto: 8
+  gateway/v1/privacy_update_request.proto: 8
+  gateway/v1/privacy_update_response.proto: 8
+  gateway/v1/session_counters.proto: 8
+  gateway/v1/static_device_info.proto: 8
+  gateway/v1/test_data.proto: 8
+  gateway/v1/timestamps.proto: 8
+  gateway/v1/transaction_event_request.proto: 8
+  gateway/v1/universal_request.proto: 8
+  gateway/v1/universal_response.proto: 8
+  gateway/v1/webview_configuration.proto: 8
+  google/protobuf/any.proto: 8
+  google/protobuf/api.proto: 8
+  google/protobuf/duration.proto: 8
+  google/protobuf/empty.proto: 8
+  google/protobuf/field_mask.proto: 8
+  google/protobuf/source_context.proto: 8
+  google/protobuf/struct.proto: 8
+  google/protobuf/timestamp.proto: 8
+  google/protobuf/type.proto: 8
+  google/protobuf/wrappers.proto: 8
+  headerbidding/v1/header_bidding_ad_markup.proto: 8
+  headerbidding/v1/header_bidding_token.proto: 8
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: 8
+  org/apache/http/entity/mime/version.properties: 8
+doNotCompress:
+- resources.arsc
+- assets/.jgapp
+- assets/Bundles/data.bin
+- assets/bin/Data/60e40f7a2ffd52b4185f3a7a41780d46.resource
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- png
+- res/raw/com_android_billingclient_heterodyne_info
+- wav
+- res/raw/com_android_billingclient_registration_info.binarypb
